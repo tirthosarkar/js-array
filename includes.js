@@ -8,5 +8,5 @@ if (friends.includes('khailam')) {
 }
 
 else {
-  console.log('no food. we are fasting')
+  // console.log('no food. we are fasting')
 }
