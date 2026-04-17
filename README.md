@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**DigiTools** is a modern, high-performance React-based web application designed for exploring and managing premium digital resources like AI tools, software templates, and productivity suites. This project bridges the gap between sophisticated design and functional logic, offering a seamless user experience.
+**DigiTools** is a modern, high-performance React-based web application designed for exploring and managing premium digital resources like AI tools, software templates, and productivity suites. This project bridges the gap between sophisticated design and functional logic, offering a seamless user experience. h
 
 ---
 
