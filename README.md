@@ -14,7 +14,7 @@ Experience the application here:
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Features .
 
 * **🛒 Smart Cart System:** A robust cart logic that allows users to select tools easily. It includes built-in validation to prevent duplicate entries, ensuring a clean shopping experience.
 * **📡 Dynamic Data Fetching:** Utilizes **Axios** to fetch product information dynamically from JSON sources, making the platform scalable and easy to manage.
